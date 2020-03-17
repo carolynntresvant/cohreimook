@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vucheitho.niko.net.cn/sitemap.xml
